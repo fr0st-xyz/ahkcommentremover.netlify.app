@@ -12,4 +12,4 @@ Feel free.
 
 ## Credits
 
-- [fr0st-iwnl](https://github.com/fr0st-iwnl) - Web Developer
+- [fr0st-xyz](https://github.com/fr0st-xyz) - Web Developer
